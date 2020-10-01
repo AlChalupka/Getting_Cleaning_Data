@@ -19,6 +19,7 @@ The R-file `data-analysis.R` performs the following data transformations:
 
 
 ### Variable describtion 
+The following variables and their mean values for each subject and activity can be found in `tidy_data.txt`. 
 
 | Variable Name         | Description                                                        |
 | --------------------- | :------------------------------------------------------------------ |
